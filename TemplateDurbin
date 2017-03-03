@@ -1,0 +1,29 @@
+preTitle: Ask Senator Durbin to
+
+title: Call for an SEC investigation into Tom Price
+
+outcomes: Spoke, Left VM, X Connect
+
+Enable: yes
+
+HTML:
+```
+<style>
+* {font-family: sans-serif; font-size: 14px}
+a {font-size: 18px}
+.script {padding:15px;background-color:rgb(240,240,240)}
+</style>
+<div>Chicago Office: <a href='tel:3123534952'>(312) 353-4952</a></div>
+<div>Springfield: <a href='tel:2174924062'>(217) 492-4062</a></div>
+<div>Carbondale: <a href='tel:6183511122'>(618) 351-1122</a></div>
+<div>Rock Island: <a href='tel:3097865173'>(309) 786-5173</a></div>
+<div>DC Office: <a href='tel:2022242152'>(202) 224-2152</a></div>
+
+<p>Call the Chicago office first, but try the other offices if you can’t get through. If you keep calling and can't get to a live person, then leave a voice mail and also <a href="https://www.durbin.senate.gov/contact/email">send a follow-up email.</a></p>
+<p>If you do send an email, it's essential that you write it in your own words. Copy-pasted emails are discounted by Congressional staff. We have to show how much these issues mean to us!</p>
+
+<div class="script">
+<p>Hello, my name is _____, and I'm one of Senator Durbin's constituents in the _____ zip code. I'm also a member of Indivisible Chicago.</p>
+<p>I'm asking that Senator Durbin call for an SEC investigation into Tom Price's potentially illegal tradig practices. Last year Secregary Price purchased over 400,000 shares of stock for a company was directly impacted by the health policy changes that Price was working on. He had insidder knowledge of that company, and has other questionable investments. He was already confirmed, but the issue of insider trading should still be investigated</p>
+</div>
+```
